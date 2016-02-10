@@ -1,11 +1,9 @@
 # "i2b2/tranSMART"
 # A statistical tool to generate research hypothesis
 
-SUMMARY
+## SUMMARY
 
-I. Quick overview        3
-
-# **I. Quick overview**
+## I. Quick overview
 
 INTRACRANIAL HYPERTENSION REGISTRY
 
@@ -13,7 +11,7 @@ INTRACRANIAL HYPERTENSION REGISTRY
 ![Image1](https://github.com/hms-dbmi/tranSMART-Documentation/blob/master/images/1.png)
 
 Click on Generate Summary Statistics
-![Image1](https://github.com/hms-dbmi/tranSMART-Documentation/blob/master/images/2.png)
-
+![Image2](https://github.com/hms-dbmi/tranSMART-Documentation/blob/master/images/2.png)
 
 Then "drag" and "drop" the variable _"TAP1 pressure"_
+![Image3](https://github.com/hms-dbmi/tranSMART-Documentation/blob/master/images/3.png)
